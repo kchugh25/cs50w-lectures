@@ -8,3 +8,4 @@ elif num<0:
 
 else:
     print("Number is 0")
+
