@@ -1,0 +1,19 @@
+h1{
+    display: flex;
+    text-align: center;
+    margin: 20px;
+    color: burlywood;
+}
+
+body{
+    background-color: beige;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(230, 149, 36);
+    text-decoration: underline;
+}
